@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Practica3Ejercicio2",
+            "request": "launch",
+            "mainClass": "Practica3Ejercicio2",
+            "projectName": "practica3_37b5f826"
+        }
+    ]
+}
